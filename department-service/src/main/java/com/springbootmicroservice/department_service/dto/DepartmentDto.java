@@ -1,7 +1,7 @@
 package com.springbootmicroservice.department_service.dto;
 
 
-import lombok.*;
+
 
 
 public class DepartmentDto {
